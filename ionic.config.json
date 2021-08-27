@@ -1,0 +1,8 @@
+{
+  "name": "Blood Bank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "09281f34"
+}
